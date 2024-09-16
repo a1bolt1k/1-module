@@ -1,0 +1,29 @@
+a{
+    text-decoration: none;
+}
+.moytext{
+    color: rgb(174, 228, 11);
+}
+
+a{
+    text-decoration:none;
+    color: rgb(255, 0, 0);
+}
+.line{
+   border: 10px solid darkblue;
+   background-color: brown;
+   rotate: ;
+}
+
+div{
+    width: 80%;
+    height: 7vh;
+    background: #eee;
+    margin-bottom: 50px;
+}
+.div2{
+    width: 80%;
+    height: 2vh;
+    background-color: #eee;
+    margin-bottom: 50px;
+}
